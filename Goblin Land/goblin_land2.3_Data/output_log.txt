@@ -1,0 +1,31 @@
+Initialize engine version: 5.6.4p2 (278fc6850ee0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro P600 (ID=0x1cb2)
+    Vendor:   NVIDIA
+    VRAM:     1958 MB
+    Driver:   23.21.13.9189
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\Goblin Land\goblin_land2.3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\Goblin Land\goblin_land2.3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\Goblin Land\goblin_land2.3_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading G:\Goblin Land\goblin_land2.3_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: G:\Goblin Land\goblin_land2.3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\Goblin Land\goblin_land2.3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\Goblin Land\goblin_land2.3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\Goblin Land\goblin_land2.3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\Goblin Land\goblin_land2.3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\Goblin Land\goblin_land2.3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\Goblin Land\goblin_land2.3_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading G:\Goblin Land\goblin_land2.3_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.522 seconds
+Platform assembly: G:\Goblin Land\goblin_land2.3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\Goblin Land\goblin_land2.3_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.130590 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1318 -> priority: 1 
